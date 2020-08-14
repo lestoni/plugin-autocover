@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "q": "1.0.1",
-        "lodash": "2.4.1",
+        "lodash": "4.17.20",
         "canvas": "1.1.6",
         "canvg": "^0.0.6",
         "geopattern": "1.2.3"
